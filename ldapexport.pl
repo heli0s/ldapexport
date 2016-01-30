@@ -1,7 +1,4 @@
-#!/usr/local/ActivePerl-5.18/bin/perl
-#/usr/bin/perl
-#/cygdrive/c/Perl64/bin/perl
-#/opt/ActivePerl-5.18/bin/perl
+#!/usr/bin/perl
 # ----------------------------------------------------------------------------
 # ldapexport	- Exports data from an LDAP directory into supported formats.
 #
